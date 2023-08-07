@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @CuylVisuals
-- 👀 I’m interested in Batch, Game Development, Lua, Gaming, etc.
-- 🌱 I’m currently learning Python, HTML and CSS
-- 💞️ I’m looking to collaborate on nothing at the moment.
-- 📫 How to reach me Cuyl#0001 on Discord!
+roblox hacking scripts nerds
+
+contact me on discord @Cuyl69
